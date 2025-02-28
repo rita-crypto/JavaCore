@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de92380f-2fed-4018-bf69-01f60bd83e11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCorePractise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/question1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/question1/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/question1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/question1/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question2/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +41,24 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.polymorphism.question3.Main">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.question1.Animal" />
+      <module name="JavaCorePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstraction.question1.Main" />
       <module name="JavaCorePractise" />
@@ -65,8 +72,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="polymorphism.question1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.question1.Main" />
+      <module name="JavaCorePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polymorphism.question2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.question2.Main" />
+      <module name="JavaCorePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polymorphism.question3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.question3.Main" />
+      <module name="JavaCorePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.question3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.polymorphism.question3.Main" />
+        <item itemvalue="Application.polymorphism.question2.Main" />
+        <item itemvalue="Application.polymorphism.question1.Main" />
+        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
