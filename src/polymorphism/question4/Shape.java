@@ -1,0 +1,7 @@
+package polymorphism.question4;
+
+abstract class Shape {
+
+    public abstract double getArea();
+    public abstract double getPerimeter();
+}
