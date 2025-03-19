@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de92380f-2fed-4018-bf69-01f60bd83e11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/question4/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/question4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/question1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/question1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/question1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.encapsulation.question4.Main">
+  <component name="RunManager" selected="Application.inheritance.question1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encapsulation.question1.Main" />
       <module name="JavaCorePractise" />
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="polymorphism.question4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.question4.Main" />
+    <configuration name="inheritance.question1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.question1.Main" />
       <module name="JavaCorePractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.question4.*" />
+          <option name="PATTERN" value="inheritance.question1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inheritance.question1.Main" />
         <item itemvalue="Application.encapsulation.question4.Main" />
         <item itemvalue="Application.encapsulation.question3.Main" />
         <item itemvalue="Application.encapsulation.question2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.polymorphism.question4.Main" />
       </list>
     </recent_temporary>
   </component>
